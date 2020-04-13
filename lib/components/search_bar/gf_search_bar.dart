@@ -159,7 +159,7 @@ class MySingleChoiceSearchState<T> extends State<GFSearchBar<T>> {
                 ),
                 suffixIcon: Icon(Icons.search),
                 border: InputBorder.none,
-                hintText: 'Search here...',
+                hintText: '도시 키워드 검색',
                 contentPadding: const EdgeInsets.only(
                   left: 16,
                   right: 20,
