@@ -36,7 +36,7 @@ class GFItemsCarousel extends StatefulWidget {
   }) : super(key: key);
 
   /// Count of visible cells
-  final int rowCount;
+  final double rowCount;
 
   /// The widgets to be shown as sliders.
   final List<Widget> children;
